@@ -1,0 +1,12 @@
+# STM32 ve Derleyici Çıktıları
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+.settings/
+.mxproject
