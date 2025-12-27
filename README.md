@@ -55,7 +55,8 @@ The table below shows the connections between the sensor and the microcontroller
 5.  The result is printed on the LCD screen.
 
 ## Screenshots
-![gosterim](https://github.com/user-attachments/assets/7b0de5ad-489e-4fbd-bf23-28779403682f)
+![gosterim](https://github.com/user-attachments/assets/9b309568-39d2-43b2-91d7-5a91d880dcfa)
+
 
 
 ---
