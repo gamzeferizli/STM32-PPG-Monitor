@@ -1,6 +1,6 @@
 # STM32 PPG Heart Rate Monitor (Pulse Monitor)
 
-This project measures real-time heart rate (BPM) using an **STM32F103C6** microcontroller and an optical **PPG (Photoplethysmography)** sensor. Signal processing algorithms are used to clean noisy sensor data and convert it into meaningful pulse data.
+This project measures real-time heart rate (BPM) using an **STM32F103C6** microcontroller and an optical **PPG (Photoplethysmography)** sensor. Signal processing algorithms are used to clean noisy sensor data and convert it into meaningful pulse data. Additionally, an LED blinks in sync with each detected heartbeat to provide real-time visual feedback.
 
 ## Features
 
